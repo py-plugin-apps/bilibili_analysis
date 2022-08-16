@@ -1,0 +1,7 @@
+{
+    "version":[1,0,0],
+    "title":"哔哩哔哩解析",
+    "desc": "按提示添加自动兑换任务",
+    "dir":"bilibili_analysis",
+    "detail":"私聊发送 #添加米游币任务，按提示操作即可。若提示cookie不完全，请打开网站user.mihoyo.com，登陆后获取cookie",
+}
